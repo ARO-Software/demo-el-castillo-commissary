@@ -1,4 +1,15 @@
 /* El Castillo Commissary — website concept by ARO Solutions */
+
+/* Self-hosted fonts (SIL Open Font License), latin subset */
+@font-face { font-family: 'Big Shoulders'; font-style: normal; font-weight: 700 900; font-display: swap; src: url(../fonts/big-shoulders-var.woff2) format('woff2'); }
+@font-face { font-family: 'Big Shoulders Stencil'; font-style: normal; font-weight: 800; font-display: swap; src: url(../fonts/big-shoulders-stencil-800.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 400; font-display: swap; src: url(../fonts/barlow-400.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 500; font-display: swap; src: url(../fonts/barlow-500.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 600; font-display: swap; src: url(../fonts/barlow-600.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow Semi Condensed'; font-style: normal; font-weight: 500; font-display: swap; src: url(../fonts/barlow-semi-condensed-500.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow Semi Condensed'; font-style: normal; font-weight: 600; font-display: swap; src: url(../fonts/barlow-semi-condensed-600.woff2) format('woff2'); }
+@font-face { font-family: 'Barlow Semi Condensed'; font-style: normal; font-weight: 700; font-display: swap; src: url(../fonts/barlow-semi-condensed-700.woff2) format('woff2'); }
+
 :root {
   --ink: #0D0D0E;
   --ink-2: #151517;
